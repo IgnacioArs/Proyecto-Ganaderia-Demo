@@ -12,7 +12,7 @@ Este repositorio implementa una arquitectura de microservicios basada en NestJS 
 
 La arquitectura está compuesta por dos microservicios principales: ms-nestjs-security (Autenticación) y ms-nestjs-business (Lógica de negocio), y un frontend en Next.js que se comunica con estos servicios utilizando Axios y gestionando el estado con Redux Toolkit.
 
-## STACK PERN
+## STACK PERN 
 
 ### Tecnologías Utilizadas
 
