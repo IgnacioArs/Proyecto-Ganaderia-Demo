@@ -1,10 +1,11 @@
 # Proyecto-Ganaderia-Demo
 Proyecto Ganadería Gestión De Terneros
 
-![Captura](https://github.com/user-attachments/assets/1d01ab41-35a4-4d78-be37-b612ff8b867f)
 ## Proyecto "Ganadería"
 
 **Microservices Architecture con NestJS y Next.js**
+![Captura](https://github.com/user-attachments/assets/1d01ab41-35a4-4d78-be37-b612ff8b867f)
+
 
 Este repositorio implementa una arquitectura de microservicios basada en NestJS para el backend y Next.js para el frontend. Los microservicios están organizados de manera modular y escalable, siguiendo patrones de diseño robustos, y utilizando PostgreSQL como sistema de gestión de bases de datos.
 
