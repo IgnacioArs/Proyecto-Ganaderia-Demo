@@ -1,5 +1,6 @@
 # Proyecto-Ganaderia-Demo
 Proyecto Ganadería Gestión De Terneros
+
 ![Captura](https://github.com/user-attachments/assets/1d01ab41-35a4-4d78-be37-b612ff8b867f)
 ## Proyecto "Ganadería"
 
